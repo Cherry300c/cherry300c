@@ -1,10 +1,6 @@
 <!-- =========================== HACKER BANNER =========================== -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Hi+I'm+ACCESS GRANTED:
-Initializing System...:
-Loading Developer Profile...:
-Welcome Bhanu Charan:
-System Online :Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=%5B+SYSTEM+BOOTING+%5D;ACCESS+GRANTED;Initializing+Developer+Environment...;Loading+Portfolio...;Welcome,+Bhanu+Charan;Building+Intelligent+%26+Secure+Systems;STATUS:+ONLINE+%F0%9F%9F%A2" />
 </p>
 
 
