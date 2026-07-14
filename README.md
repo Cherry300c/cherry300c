@@ -19,28 +19,15 @@ AI Enthusiast • Cybersecurity Learner • Machine Learning Explorer
 
 # 👨‍💻 About Me
 
-```console
-root@github:~$ whoami
-Bhanu Charan
+## 👨‍💻 About Me
 
-root@github:~$ role
-AI Enthusiast
-Cybersecurity Learner
-
-root@github:~$ learning
-Machine Learning
-Artificial Intelligence
-Python
-Kotlin
-
-root@github:~$ current_status
-Building Intelligent & Secure Systems...
-
-root@github:~$ location
-India
-```
-
----
+- 🎓 Computer Science Engineering Student
+- 🤖 Passionate about Artificial Intelligence and Machine Learning
+- 🔐 Exploring Cybersecurity and Secure Software Development
+- 💻 Building real-world applications using Python, Kotlin, and Firebase
+- 🌱 Currently learning AI, Machine Learning, and Cybersecurity
+- 🚀 Always excited to learn new technologies and solve real-world problems
+- 🎯 Goal: Build intelligent, secure, and impactful software
 
 # ⚡ Workflow Badge
 
