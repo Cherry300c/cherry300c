@@ -4,11 +4,6 @@
 </p>
 
 
-
-<h3 align="center">
-AI Enthusiast • Cybersecurity Learner • Machine Learning Explorer
-</h3>
-
 ---
 
 
