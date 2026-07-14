@@ -7,9 +7,8 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=1100&lines=Welcome,+Bhanu+Charan;AI+%7C+Cybersecurity+%7C+Machine+Learning;Building+Intelligent+%26+Secure+Systems;Code.+Learn.+Innovate.;Welcome+to+My+GitHub+Profile" />
+   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Devatade+Bhanu+Charan;Computer+Science+Engineering+Student;Passionate+about+Artificial+Intelligence;Exploring+Machine+Learning+%26+Cybersecurity;Building+Practical+Software+Solutions;Learning+New+Technologies+Every+Day;Learning.+Building.+Improving.;One+Project+at+a+Time." />
 </h1>
----
 
 # 👨‍💻 About Me
 
