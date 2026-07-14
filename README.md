@@ -18,11 +18,6 @@
 
 # ⚡ Workflow Badge
 
-<p align="center">
-
-![Snake Workflow](https://github.com/Cherry300c/cherry300c/actions/workflows/snake.yml/badge.svg)
-
-</p>
 
 ---
 
