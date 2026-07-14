@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Devatade+Bhanu+Charan;Welcome+to+My+GitHub" />
 </h1>
-
+# interested in 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Building+Intelligent+%26+Secure+Systems;Learning.+Building.+Improving.;One+Project+at+a+Time." />
 </p>
