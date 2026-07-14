@@ -1,7 +1,8 @@
 <!-- =========================== HACKER BANNER =========================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=%5B+SYSTEM+BOOTING+%5D;ACCESS+GRANTED;Initializing+Developer+Environment...;Loading+Portfolio...;Welcome,+Bhanu+Charan;Building+Intelligent+%26+Secure+Systems;STATUS:+ONLINE+%F0%9F%9F%A2" />
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=%5B+SYSTEM+BOOTING+%5D;Loading+Core+Modules...;Initializing+Developer+Environment...;Authenticating+User...;ACCESS+GRANTED+%E2%9C%85" />
 </p>
+
 
 
 <h3 align="center">
@@ -12,7 +13,7 @@ AI Enthusiast • Cybersecurity Learner • Machine Learning Explorer
 
 
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=ACCESS+GRANTED;WELCOME+TO+MY+GITHUB;SYSTEM+ONLINE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=1100&lines=Welcome,+Bhanu+Charan;AI+%7C+Cybersecurity+%7C+Machine+Learning;Building+Intelligent+%26+Secure+Systems;Code.+Learn.+Innovate.;Welcome+to+My+GitHub+Profile" />
 </h1>
 ---
 
