@@ -13,8 +13,6 @@
 
 # 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
 - 🎓 Computer Science Engineering Student
 - 🤖 Passionate about Artificial Intelligence and Machine Learning
 - 🔐 Exploring Cybersecurity and Secure Software Development
